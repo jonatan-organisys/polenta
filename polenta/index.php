@@ -1,2 +1,2 @@
-<?php
+<?phpa
 as
